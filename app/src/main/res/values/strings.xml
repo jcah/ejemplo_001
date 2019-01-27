@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejemplo_000</string>
+    <string name="hello_world"> Hola Mundo Curso de Android</string>
+    <string name="action">Settings</string>
+</resources>
